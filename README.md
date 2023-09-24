@@ -1,2 +1,2 @@
-# animalise script
+# animalise node
 
